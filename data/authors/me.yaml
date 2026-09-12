@@ -1,0 +1,174 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+
+name:
+  display: Pronob Sarker
+  given: Pronob
+  family: Sarker
+  pronunciation: ''
+  pronouns: he/him
+
+postnominals: []
+
+status:
+  icon: "🎓"
+
+role: "Computer Science Senior · PhD Applicant in Artificial Intelligence"
+
+bio: |
+  Pronob Sarker is a Computer Science senior at Gettysburg College (graduating December 2026) preparing PhD applications in Artificial Intelligence. His work sits at the intersection of agentic AI, robust machine learning, and human-centered systems: he has built LLM agents with tool use, retrieval-augmented generation systems, and NLP-powered healthcare decision support, and has conducted research on fine-grained image classification, combinatorial puzzle generation, and graph theory. His throughline is building AI that works reliably in the real world, with and for people.
+
+affiliations:
+  - name: Gettysburg College
+    url: https://www.gettysburg.edu/
+
+links:
+  - icon: at-symbol
+    url: mailto:sarkpr01@gettysburg.edu
+    label: E-mail
+  - icon: brands/github
+    url: https://github.com/pronobsarker
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/pronob-sarker
+  # TODO: Add Google Scholar profile URL (user will provide)
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/citations?user=TODO
+  # TODO: Add ORCID URL (user will provide)
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/TODO
+
+interests:
+  - Agentic AI & LLM Systems
+  - Robust & Trustworthy Machine Learning
+  - Human–AI Interaction
+  - Computer Vision
+  - AI Reasoning & Evaluation
+  - Multimodal Systems
+
+education:
+  - degree: BS Computer Science
+    institution: Gettysburg College
+    start: 2022-08-01
+    end: 2026-12-31
+    summary: |
+      Minors in Data Science and Mathematics · GPA 3.71/4.00.
+      Selected coursework: Machine Learning, Deep Learning, Linear Algebra, Multivariable Calculus, Differential Equations, Probability & Statistics, Applied Statistics, Theory of Computation, Data Structures & Algorithms, Computer Organization, Computer Networks, Database Management Systems, Mathematical Modeling, Applied Research in Mathematics.
+
+experience:
+  - role: Machine Learning Research Assistant
+    org: Gettysburg College & Rice Fruit Company
+    start: 2025-01-01
+    end: 2025-05-31
+    summary: |
+      Advisors: Dr. Kim Spayd, Dr. Eatai Roth. Comparative study of KNN, SVM, Random Forest, and ResNet-50 for fine-grained apple image classification (Fruit-360); ResNet-50 reached macro-F1 0.99. Analyzed misclassification patterns and deployment trade-offs.
+  - role: Participant, LGS Summer Opportunity for Academic Research (SOAR)
+    org: Emory University, Laney Graduate School
+    start: 2026-06-01
+    end: 2026-08-31
+    summary: |
+      Selected for the graduate-school research and scholarly development program.
+  - role: Undergraduate Research Assistant — Game AI
+    org: Gettysburg College
+    start: 2023-06-01
+    end: 2023-08-31
+    summary: |
+      Advisor: Prof. Todd W. Neller. Monte Carlo sampling and stochastic local search for generating and evaluating combinatorial puzzles; optimized algorithms over 1M+ solvable instances.
+  - role: Software Engineering Intern — User Experience
+    org: Develop for Good
+    start: 2025-06-01
+    end: 2025-08-31
+    summary: |
+      Built Python LLM-assisted pipelines for large-scale cloud content migration, cutting deployment latency from ~3 weeks to ~1 week across 5,000+ assets.
+  - role: Teaching Assistant — Machine Learning
+    org: Gettysburg College
+    start: 2026-01-01
+    end: 2026-12-31
+    summary: |
+      Support students with ML concepts, programming assignments, model implementation, debugging, and experimentation workflows.
+
+skills:
+  - name: Programming
+    items:
+      - label: Python
+        level: 5
+      - label: C++
+        level: 4
+      - label: Java
+        level: 4
+      - label: SQL
+        level: 4
+      - label: JavaScript
+        level: 3
+  - name: AI / Machine Learning
+    items:
+      - label: PyTorch
+        level: 4
+      - label: scikit-learn
+        level: 5
+      - label: Large Language Models
+        level: 4
+      - label: Retrieval-Augmented Generation
+        level: 4
+      - label: Computer Vision
+        level: 4
+      - label: spaCy / NLP
+        level: 4
+      - label: TensorFlow
+        level: 3
+  - name: Tools & Methods
+    items:
+      - label: Git
+        level: 5
+      - label: LaTeX
+        level: 5
+      - label: REST APIs
+        level: 4
+      - label: AWS
+        level: 3
+      - label: ChromaDB
+        level: 4
+      - label: Gradio
+        level: 4
+      - label: MATLAB / Mathematica
+        level: 3
+
+languages:
+  - name: English
+    level: 5
+    label: Fluent
+  - name: Bengali
+    level: 5
+    label: Native
+
+awards:
+  - title: Summer Opportunity for Academic Research (LGS-SOAR)
+    awarder: Emory University, Laney Graduate School
+    date: "2026-06-01"
+    summary: Selected participant in the graduate-school research and scholarly development program.
+    icon: hero/academic-cap
+  - title: Polymath Jr. Summer Research Program
+    awarder: National Science Foundation
+    date: "2025-06-01"
+    summary: Selected participant in the NSF-funded collaborative undergraduate mathematics research program.
+    icon: hero/beaker
+  - title: Davis Projects for Peace Grant — $10,000
+    awarder: Davis United World College Scholars Program
+    date: "2023-06-01"
+    summary: Competitive grant to design and lead "Bridging the Digital Divide" in Bogura, Bangladesh, serving 500+ students; secured an additional $2,000 to expand the initiative.
+    icon: hero/globe-alt
+  - title: X-SIG Summer Research Fellowship
+    awarder: Gettysburg College
+    date: "2023-06-01"
+    summary: Selected for Gettysburg College's summer research fellowship program.
+    icon: hero/sparkles
+  - title: Presidential Scholarship
+    awarder: Gettysburg College
+    date: "2022-08-01"
+    summary: Awarded in recognition of academic achievement.
+    icon: hero/trophy
+  - title: Stellar Student Employee Award
+    awarder: Gettysburg College
+    date: "2024-01-01"
+    summary: Recognized for outstanding contributions as a student employee.
+    icon: hero/star
