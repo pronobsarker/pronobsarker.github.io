@@ -26,7 +26,7 @@ My work is organized around one question: **how do we build AI systems that are 
 
 ---
 
-## Robust & Trustworthy ML — Do Models Actually Work?
+## Robust and Trustworthy ML — Do Models Actually Work?
 
 **The question:** Aggregate metrics hide systematic failures. How do we evaluate models on the hard cases, understand where they break, and reason honestly about deployment?
 
@@ -57,7 +57,7 @@ My work is organized around one question: **how do we build AI systems that are 
 
 ---
 
-## Foundations — Reasoning, Search & Optimization
+## Foundations — Reasoning, Search, and Optimization
 
 **The question:** Beneath the systems work sits formal structure. Can I reason precisely about complex systems — and prove it?
 

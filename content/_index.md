@@ -51,7 +51,7 @@ sections:
             - Tool Use
             - Retrieval-Augmented Generation
             - Multi-Agent Systems
-        - name: Robust & Trustworthy ML
+        - name: Robust and Trustworthy ML
           description: Asking whether models actually work where it matters — comparative evaluation, misclassification analysis, and understanding generalization and deployment trade-offs.
           icon: hero/shield-check
           gradient: from-teal-500 to-emerald-600
@@ -71,7 +71,7 @@ sections:
             - Decision Support
             - Conversational AI
             - AI for Social Good
-        - name: Foundations — Reasoning & Optimization
+        - name: Foundations — Reasoning, Search, and Optimization
           description: The formal backbone of my work — graph theory, combinatorial search, and optimization as tools for understanding structure in complex systems.
           icon: hero/variable
           gradient: from-violet-500 to-purple-600
