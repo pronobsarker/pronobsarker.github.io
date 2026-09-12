@@ -169,6 +169,9 @@ awards:
     icon: hero/trophy
   - title: Stellar Student Employee Award
     awarder: Gettysburg College
-    date: "2024-01-01"
     summary: Recognized for outstanding contributions as a student employee.
     icon: hero/star
+  - title: Dean's List — Multiple Semesters
+    awarder: Gettysburg College
+    summary: Recognized for academic excellence.
+    icon: hero/academic-cap

@@ -17,4 +17,4 @@ The fastest way to reach me is email:
 
 **[sarkpr01@gettysburg.edu](mailto:sarkpr01@gettysburg.edu)**
 
-You can also find me on [GitHub](https://github.com/pronobsarker) and [LinkedIn](https://www.linkedin.com/in/pronob-sarker), or download my [CV](/uploads/CV_Pronob_Sarker.pdf).
+You can also find me on [GitHub](https://github.com/pronobsarker) and [LinkedIn](https://www.linkedin.com/in/pronob-sarker), or download my [CV](/uploads/cv_pronob_sarker.pdf).

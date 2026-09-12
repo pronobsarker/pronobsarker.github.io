@@ -78,4 +78,4 @@ I do not yet have peer-reviewed publications. My scholarly output to date is:
 
 - *Firecrackers and Tollbooth Graphs: Properties of Novel Graph Structures* — undergraduate research manuscript, Gettysburg College, 2024.
 
-My code is on [GitHub](https://github.com/pronobsarker), and my full history is in my [CV](/uploads/CV_Pronob_Sarker.pdf).
+My code is on [GitHub](https://github.com/pronobsarker), and my full history is in my [CV](/uploads/cv_pronob_sarker.pdf).

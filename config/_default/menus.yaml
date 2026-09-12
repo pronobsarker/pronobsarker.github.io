@@ -18,7 +18,7 @@ main:
     url: teaching/
     weight: 50
   - name: CV
-    url: /uploads/CV_Pronob_Sarker.pdf
+    url: /uploads/cv_pronob_sarker.pdf
     weight: 60
   - name: Contact
     url: contact/
